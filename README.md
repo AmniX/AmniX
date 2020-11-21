@@ -12,7 +12,7 @@
 <a href="mailto:amantonkem@gmail.com" target="_blank">
   <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://t.me/AmniX" target="_blank">
+<a href="https://t.me/AmniXX" target="_blank">
   <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/amantonk/" target="_blank">
@@ -25,7 +25,7 @@
 
 ### Glad to see you here! 🤩
 <p>
-  <i>I'm <b>Aman Tonk</b>, an Android professional on applicastion side from India. A budding <b>Developer</b> who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel.</b> 💡.<?i>
+  <i>I'm <b>Aman Tonk</b>, an Android professional on applicastion side from India. A budding <b>Developer</b> who is <b>obsessed</b> with the idea of <b>improving</b> and <b>exploring</b> himself to <b>grow</b> and <b>excel.</b> 💡.<?i>
   I love to explore new technologies and leverage them to solve real-life problems ✨. I'm a passionate learner who's always willing to learn and work across technologies and domains.
 </p>
 
