@@ -8,10 +8,9 @@
 
 - 🔭 I’m currently working with: [**ZEE5**](https://www.zee5.com) 
 - 🌱 Currently learning [**Flutter/Dart**](https://flutter.dev/) and [**KMF**](https://kotlinlang.org/docs/reference/multiplatform.html) ✨
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AmniX).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/AmniX/AmniX/issues/)! I am happy to help.
-- 💬 Ask me about: **Check out below to ask things related to whatever I know.**
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/AmniX).
+- 💬 Ask me about anything [here](https://github.com/AmniX/AmniX/issues/)! I am happy to help.
+- 👾 Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 How to reach me: **Just use any of the platforms above**
 
 ### My Absolute Favorites:
