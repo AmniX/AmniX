@@ -1,28 +1,5 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=AmniX"></h2>
 
-<a href="https://twitter.com/amantonkem" target="_blank">
-  <img align="left" alt="Aman's Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />
-</a>
-<a href="https://www.linkedin.com/in/amantonk/" target="_blank">
-  <img align="left" alt="Aman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/AmniX" target="_blank">
-  <img align="left" alt="Aman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="mailto:amantonkem@gmail.com" target="_blank">
-  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://t.me/AmniXX" target="_blank">
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/amantonk/" target="_blank">
-  <img align="left" alt="Aman's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://facebook.com/amantonkem/" target="_blank">
-  <img align="left" alt="Aman's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br />
-
 ### Glad to see you here! 🤩
 <p>
   <i>I'm <b>Aman Tonk</b>, an Android professional from India & a budding <b>Developer</b> who is <b>obsessed</b> with the idea of <b>Improving</b> and <b>Exploring</b> himself to <b>grow</b> and <b>excel</b> further 💡.<?i>
@@ -31,29 +8,61 @@
 
 - 🔭 I’m currently working with: [**ZEE5**](https://www.zee5.com) 
 - 🌱 Currently learning [**Flutter/Dart**](https://flutter.dev/) and [**KMF**](https://kotlinlang.org/docs/reference/multiplatform.html) ✨
-- 👯 Looking to collaborate on new project ideas mainly : [**GoLang**](https://golang.org/) 👨‍💻
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AmniX).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/AmniX/AmniX/issues/)! I am happy to help.
 - 💬 Ask me about: **Check out below to ask things related to whatever I know.**
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 How to reach me: **Just use any of the platforms above**
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=AmniX&count_private=true&show_icons=true&title_color=333&icon_color=333)
+![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=AmniX)
+
 
 
 **Languages and Tools:**  
 
 <p align="left"> 
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/android.svg">
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/kotlin.svg">
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg">
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/flutter.svg">
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/dart.svg">
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/go.svg">
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/javascript.svg">
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/docker.svg">
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/tensorflow.svg">
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/node-dot-js.svg">
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg">
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/c.svg">
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg">
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg">
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gnubash.svg">
+<img  height="24"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+<img  height="24"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+<img  height="24"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+<img  height="24"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+<img  height="24"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+<img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+<img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
+<img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+<img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
+<img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AmniX&count_private=true&show_icons=true&title_color=333&icon_color=333)
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+	    <li><b>Laptop: </b> MacBook Pro i7</li>
+  	  <li><b>OS:</b> Big Sur</li>
+  	  <li><b>Browser: </b> Brave</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> Android Studio and VS Code</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Android Weekly and Twitter.</li>
+	    <br />
+	</ul>	
+</details>
+
+
+One can reach me with below methods
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/amantonk)
+[![Mail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:amantonkem@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/amantonkem)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/amantonk/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AmanTonk)
