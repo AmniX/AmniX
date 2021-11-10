@@ -11,7 +11,7 @@
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/AmniX).
 - 💬 Ask me about anything [here](https://github.com/AmniX/AmniX/issues/)! I am happy to help.
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 How to reach me: **Just use any of the platforms above**
+- 📫 How to reach me: **Just use any of the platforms from bottom of the intro Section**
 
 ### My Absolute Favorites:
 
