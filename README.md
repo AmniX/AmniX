@@ -6,7 +6,6 @@
   I love to explore new technologies and leverage them to solve real-life problems ✨. I'm a passionate learner who's always willing to learn and work across technologies and domains.
 </p>
 
-- 🔭 I’m currently working with: [**Unacademy**](https://unacademy.com/) 
 - 🌱 Currently learning [**Flutter/Dart**](https://flutter.dev/) and [**KMP**](https://kotlinlang.org/docs/reference/multiplatform.html) ✨
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/AmniX).
 - 💬 Ask me about anything [here](https://github.com/AmniX/AmniX/issues/)! I am happy to help.
