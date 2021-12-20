@@ -46,8 +46,8 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-	    <li><b>Laptop: </b> MacBook Pro i7</li>
-  	  <li><b>OS:</b> Big Sur</li>
+	    <li><b>Laptop: </b> M1 Pro Macbook</li>
+  	  <li><b>OS:</b> Monterey</li>
   	  <li><b>Browser: </b> Brave</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> Android Studio and VS Code</li>
