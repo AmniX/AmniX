@@ -2,11 +2,11 @@
 
 ### Glad to see you here! 🤩
 <p>
-  <i>I'm <b>Aman Tonk</b>, an Android professional from India & a budding <b>Developer</b> who is <b>obsessed</b> with the idea of <b>Improving</b> and <b>Exploring</b> himself to <b>grow</b> and <b>excel</b> further 💡.<?i>
+  <i>I'm <b>Aman Tonk</b>, an Kotlin Multiplatform and Android professional from India & a budding <b>Developer</b> who is <b>obsessed</b> with the idea of <b>Improving</b> and <b>Exploring</b> himself to <b>grow</b> and <b>excel</b> further 💡.<?i>
   I love to explore new technologies and leverage them to solve real-life problems ✨. I'm a passionate learner who's always willing to learn and work across technologies and domains.
 </p>
 
-- 🌱 Currently learning [**Flutter/Dart**](https://flutter.dev/) and [**KMP**](https://kotlinlang.org/docs/reference/multiplatform.html) ✨
+- 🌱 Currently learning while working with [**KMP**](https://kotlinlang.org/docs/reference/multiplatform.html) ✨
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/AmniX?tab=repositories).
 - 💬 Ask me about anything [here](https://github.com/AmniX/AmniX/issues/)! I am happy to help.
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
@@ -17,6 +17,7 @@
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
+- ⁉️ &nbsp; I used to hate hybrid Development but KMP changed my mind
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AmniX&count_private=true&show_icons=true&title_color=333&icon_color=333)
 ![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=AmniX)
@@ -46,12 +47,12 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-	    <li><b>Laptop: </b> M1 Pro Macbook</li>
-  	  <li><b>OS:</b> Monterey</li>
-  	  <li><b>Browser: </b> Brave</li>
+	    <li><b>Laptop: </b> M3 Max Macbook</li>
+  	  <li><b>OS:</b> Sonoma</li>
+  	  <li><b>Browser: </b> Brave and Chrome </li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> Android Studio and VS Code</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Android Weekly and Twitter.</li>
+	    <li><b>Code Editor:</b> Android Studio and Fleet</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Android Weekly and X</li>
 	    <br />
 	</ul>	
 </details>
