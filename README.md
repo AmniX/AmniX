@@ -1,10 +1,7 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=AmniX"></h2>
 
 ### Glad to see you here! 🤩
-<p>
-  <i>I'm <b>Aman Tonk</b>, an Kotlin Multiplatform and Android professional from India & a budding <b>Developer</b> who is <b>obsessed</b> with the idea of <b>Improving</b> and <b>Exploring</b> himself to <b>grow</b> and <b>excel</b> further 💡.<?i>
-  I love to explore new technologies and leverage them to solve real-life problems ✨. I'm a passionate learner who's always willing to learn and work across technologies and domains.
-</p>
+<p> <i>I'm <b>Aman Tonk</b>, a Kotlin Multiplatform and Android professional from India, and an aspiring <b>developer</b> who is <b>passionate</b> about <b>learning</b>, <b>growing</b>, and <b>excelling</b> in the field 💡. I love exploring new technologies and leveraging them to solve real-world problems ✨. As a dedicated learner, I'm always eager to expand my knowledge and work across different technologies and domains. </i> </p>
 
 - 🌱 Currently learning while working with [**KMP**](https://kotlinlang.org/docs/reference/multiplatform.html) ✨
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/AmniX?tab=repositories).
@@ -47,8 +44,8 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-	    <li><b>Laptop: </b> M3 Max Macbook</li>
-  	  <li><b>OS:</b> Sonoma</li>
+	    <li><b>Laptop: </b> M4 Max Macbook</li>
+  	  <li><b>OS:</b> MacOs</li>
   	  <li><b>Browser: </b> Brave and Chrome </li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> Android Studio and Fleet</li>
